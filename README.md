@@ -30,3 +30,7 @@ Se recomandă uzul QGIS.
 
 **Global Forest Watch:** https://globalnaturewatch.org/map/
 
+## DATE SINTETIZATE
+
+**Our World In Data:** https://ourworldindata.org
+
