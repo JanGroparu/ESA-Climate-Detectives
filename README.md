@@ -34,3 +34,5 @@ Se recomandă uzul QGIS.
 
 **Our World In Data:** https://ourworldindata.org
 
+**Data.gov.ro:** https://data.gov.ro
+
