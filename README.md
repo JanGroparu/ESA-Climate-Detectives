@@ -26,6 +26,8 @@ Se recomandă uzul QGIS.
 
 **NASA Worldview:** https://worldview.earthdata.nasa.gov/
 
+**Earthview Search:** https://search.earthdata.nasa.gov/
+
 ## DATE BIOMASĂ
 
 **Global Forest Watch:** https://globalnaturewatch.org/map/
