@@ -38,6 +38,8 @@ Se recomandă uzul QGIS.
 
 **FIRMS:** https://firms.modaps.eosdis.nasa.gov/
 
+**RomsilvaȘ** https://www.rosilva.ro/
+
 ## DATE SINTETIZATE
 
 **Our World In Data:** https://ourworldindata.org
