@@ -25,12 +25,12 @@ Se recomandă uzul QGIS.
 - [ ] **OpenAQ:** https://explore.openaq.org/
 
 - [ ] **NASA Worldview:** https://worldview.earthdata.nasa.gov/
+        *Nati*
+- [X] **Earthview Search:** https://search.earthdata.nasa.gov/
 
-- [ ] **Earthview Search:** https://search.earthdata.nasa.gov/
+- [X] **Edgar:** https://edgar.jrc.ec.europa.eu/
 
-- [ ] **Edgar:** https://edgar.jrc.ec.europa.eu/
-
-- [ ] **Climate Trace:** https://climatetrace.org/data
+- [X] **Climate Trace:** https://climatetrace.org/data
 
 ## DATE BIOMASĂ - *Angela*
 
