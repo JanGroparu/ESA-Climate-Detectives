@@ -20,13 +20,13 @@ EDU -> https://geodataviewer.com/open-gpkg-online/
 
 - [X] **MAAP Explorer:** https://explorer.maap.eo.esa.int - Edu
 
-- [ ] **CAMS:** https://ads.atmosphere.copernicus.eu
+- [X] **CAMS:** https://ads.atmosphere.copernicus.eu - Ilie
 
-- [ ] **Euro Air Quality Datahub:** https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d
+- [X] **Euro Air Quality Datahub:** https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d - David
 
-- [ ] **OpenAQ:** https://explore.openaq.org/
+- [X] **OpenAQ:** https://explore.openaq.org/ - David
 
-- [ ] **NASA Worldview:** https://worldview.earthdata.nasa.gov/
+- [X] **NASA Worldview:** https://worldview.earthdata.nasa.gov/ - David
 
 - [X] **Earthview Search:** https://search.earthdata.nasa.gov/ - Nati
 
@@ -44,6 +44,6 @@ EDU -> https://geodataviewer.com/open-gpkg-online/
 
 ## DATE SINTETIZATE
 
-- [ ] **Our World In Data:** https://ourworldindata.org
+- [X] **Our World In Data:** https://ourworldindata.org - Ilie
 
-- [ ] **Data.gov.ro:** https://data.gov.ro
+- [X] **Data.gov.ro:** https://data.gov.ro - Ilie
