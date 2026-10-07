@@ -12,6 +12,8 @@ Se recomandă uzul QGIS.
 
 ## DATE AER
 
+EDU -> https://geodataviewer.com/open-gpkg-online/
+
 - [X] **Copernicus:** https://browser.dataspace.copernicus.eu - Edu
 
 - [X] **Calitatea Aerului:** https://calitateaer.ro/public/monitoring-page/reports-reports-page/ - Edu
