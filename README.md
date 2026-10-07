@@ -12,11 +12,11 @@ Se recomandă uzul QGIS.
 
 ## DATE AER
 
-- [ ] **Copernicus:** https://browser.dataspace.copernicus.eu
+- [X] **Copernicus:** https://browser.dataspace.copernicus.eu - Edu
 
-- [ ] **Calitatea Aerului:** https://calitateaer.ro/public/monitoring-page/reports-reports-page/
+- [X] **Calitatea Aerului:** https://calitateaer.ro/public/monitoring-page/reports-reports-page/ - Edu
 
-- [ ] **MAAP Explorer:** https://explorer.maap.eo.esa.int
+- [X] **MAAP Explorer:** https://explorer.maap.eo.esa.int - Edu
 
 - [ ] **CAMS:** https://ads.atmosphere.copernicus.eu
 
