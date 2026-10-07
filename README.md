@@ -30,6 +30,8 @@ Se recomandă uzul QGIS.
 
 **Edgar:** https://edgar.jrc.ec.europa.eu/
 
+**Climate Trace:** climatetrace.org/data
+
 ## DATE BIOMASĂ
 
 **Global Forest Watch:** https://globalnaturewatch.org/map/
