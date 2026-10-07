@@ -28,6 +28,8 @@ Se recomandă uzul QGIS.
 
 **Earthview Search:** https://search.earthdata.nasa.gov/
 
+**Edgar:** https://edgar.jrc.ec.europa.eu/
+
 ## DATE BIOMASĂ
 
 **Global Forest Watch:** https://globalnaturewatch.org/map/
