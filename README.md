@@ -12,37 +12,36 @@ Se recomandă uzul QGIS.
 
 ## DATE AER
 
-**Copernicus:** https://browser.dataspace.copernicus.eu
+- [ ] **Copernicus:** https://browser.dataspace.copernicus.eu
 
-**Calitatea Aerului:** https://calitateaer.ro/public/monitoring-page/reports-reports-page/
+- [ ] **Calitatea Aerului:** https://calitateaer.ro/public/monitoring-page/reports-reports-page/
 
-**MAAP Explorer:** https://explorer.maap.eo.esa.int
+- [ ] **MAAP Explorer:** https://explorer.maap.eo.esa.int
 
-**CAMS:** https://ads.atmosphere.copernicus.eu
+- [ ] **CAMS:** https://ads.atmosphere.copernicus.eu
 
-**Euro Air Quality Datahub:** https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d
+- [ ] **Euro Air Quality Datahub:** https://www.eea.europa.eu/en/datahub/datahubitem-view/778ef9f5-6293-4846-badd-56a29c70880d
 
-**OpenAQ:** https://explore.openaq.org/
+- [ ] **OpenAQ:** https://explore.openaq.org/
 
-**NASA Worldview:** https://worldview.earthdata.nasa.gov/
+- [ ] **NASA Worldview:** https://worldview.earthdata.nasa.gov/
 
-**Earthview Search:** https://search.earthdata.nasa.gov/
+- [ ] **Earthview Search:** https://search.earthdata.nasa.gov/
 
-**Edgar:** https://edgar.jrc.ec.europa.eu/
+- [ ] **Edgar:** https://edgar.jrc.ec.europa.eu/
 
-**Climate Trace:** https://climatetrace.org/data
+- [ ] **Climate Trace:** https://climatetrace.org/data
 
-## DATE BIOMASĂ
+## DATE BIOMASĂ - *Angela*
 
-**Global Forest Watch:** https://globalnaturewatch.org/map/
+- [x] **Global Forest Watch:** https://globalnaturewatch.org/map/
 
-**FIRMS:** https://firms.modaps.eosdis.nasa.gov/
+- [x] **FIRMS:** https://firms.modaps.eosdis.nasa.gov/
 
-**Romsilva:** https://www.rosilva.ro/
+- [x] **Romsilva:** https://www.rosilva.ro/
 
 ## DATE SINTETIZATE
 
-**Our World In Data:** https://ourworldindata.org
+- [ ] **Our World In Data:** https://ourworldindata.org
 
-**Data.gov.ro:** https://data.gov.ro
-
+- [ ] **Data.gov.ro:** https://data.gov.ro
