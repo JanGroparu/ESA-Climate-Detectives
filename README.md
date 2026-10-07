@@ -36,6 +36,8 @@ Se recomandă uzul QGIS.
 
 **Global Forest Watch:** https://globalnaturewatch.org/map/
 
+**FIRMS:** https://firms.modaps.eosdis.nasa.gov/
+
 ## DATE SINTETIZATE
 
 **Our World In Data:** https://ourworldindata.org
